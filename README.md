@@ -1,0 +1,2 @@
+# StringToDataTimeDemo
+简单总结一下C#中将字符串转化为DateTime类型的方法，和注意事项
